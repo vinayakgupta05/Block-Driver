@@ -1,0 +1,1227 @@
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Initializing memory system ...
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] BLOCK WRFRME: Reading the BLOCK memory contents to [block_memsys.bck] ...
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Read the disk array contents successfully.
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Block system initialized.
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [ERROR] BLOCK INIT: fail, initializing an initialized system
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] BLOCK simulator initialization complete.
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=158, offset=0
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Opening file [aesopa10.txt]
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 158 bytes to file [aesopa10.txt]
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffeef923ce0):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [INFO] BLOCK: checksum failed [18501095 != 0]
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffeef923ce0):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=117, offset=0
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 117 bytes to file [aesopa10.txt]
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffeef923ce0):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [INFO] BLOCK: checksum failed [fcf3d802 != 0]
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffeef923ce0):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=192, offset=0
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 192 bytes to file [aesopa10.txt]
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffeef923ce0):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [INFO] BLOCK: checksum failed [be18d436 != 0]
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffeef923ce0):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=87, offset=0
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 87 bytes from file [aesopa10.txt]
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x56182d2068f0):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x56182d2068f0):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=52
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 52 in file [aesopa10.txt]
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=215, offset=0
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 215 bytes from file [aesopa10.txt]
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x56182d209a20):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x56182d209a20):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=56, offset=0
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 56 bytes to file [aesopa10.txt]
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffeef923ce0):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [INFO] BLOCK: checksum failed [2e2be8a7 != 0]
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffeef923ce0):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=99
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 99 in file [aesopa10.txt]
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=7, offset=0
+Mon Jul  1 08:50:41 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 7 bytes from file [aesopa10.txt]
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x56182d1ead90):
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 08:50:41 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:01:19 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:01:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:01:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Initializing memory system ...
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] BLOCK WRFRME: Reading the BLOCK memory contents to [block_memsys.bck] ...
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Read the disk array contents successfully.
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Block system initialized.
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [ERROR] BLOCK INIT: fail, initializing an initialized system
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] BLOCK simulator initialization complete.
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=158, offset=0
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Opening file [aesopa10.txt]
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 158 bytes to file [aesopa10.txt]
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffe330518f0):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [INFO] BLOCK: checksum failed [c65a609 != 0]
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffe330518f0):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=117, offset=0
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 117 bytes to file [aesopa10.txt]
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffe330518f0):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [INFO] BLOCK: checksum failed [3833ab2c != 0]
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffe330518f0):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=192, offset=0
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 192 bytes to file [aesopa10.txt]
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffe330518f0):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [INFO] BLOCK: checksum failed [5ead5be5 != 0]
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffe330518f0):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=87, offset=0
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 87 bytes from file [aesopa10.txt]
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x55a3041698f0):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x55a3041698f0):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=52
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 52 in file [aesopa10.txt]
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=215, offset=0
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 215 bytes from file [aesopa10.txt]
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x55a30416ca20):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x55a30416ca20):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=56, offset=0
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 56 bytes to file [aesopa10.txt]
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffe330518f0):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [INFO] BLOCK: checksum failed [255f342d != 0]
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffe330518f0):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=99
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 99 in file [aesopa10.txt]
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=7, offset=0
+Mon Jul  1 09:01:20 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 7 bytes from file [aesopa10.txt]
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x55a30414dd90):
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:01:20 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Initializing memory system ...
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] BLOCK WRFRME: Reading the BLOCK memory contents to [block_memsys.bck] ...
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Read the disk array contents successfully.
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Block system initialized.
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [ERROR] BLOCK INIT: fail, initializing an initialized system
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] BLOCK simulator initialization complete.
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=158, offset=0
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Opening file [aesopa10.txt]
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 158 bytes to file [aesopa10.txt]
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffe521ef510):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [INFO] BLOCK: checksum failed [c5d6f6eb != 0]
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffe521ef510):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=117, offset=0
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 117 bytes to file [aesopa10.txt]
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffe521ef510):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [INFO] BLOCK: checksum failed [40b55de2 != 0]
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffe521ef510):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=192, offset=0
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 192 bytes to file [aesopa10.txt]
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffe521ef510):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [INFO] BLOCK: checksum failed [5ab7bf80 != 0]
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffe521ef510):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=87, offset=0
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 87 bytes from file [aesopa10.txt]
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x563463dbc8f0):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x563463dbc8f0):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=52
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 52 in file [aesopa10.txt]
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=215, offset=0
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 215 bytes from file [aesopa10.txt]
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x563463dbfa20):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x563463dbfa20):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=56, offset=0
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 56 bytes to file [aesopa10.txt]
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffe521ef510):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [INFO] BLOCK: checksum failed [d9250d12 != 0]
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffe521ef510):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=99
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 99 in file [aesopa10.txt]
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=7, offset=0
+Mon Jul  1 09:08:27 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 7 bytes from file [aesopa10.txt]
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x563463da0d90):
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:27 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:08:31 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:08:31 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:31 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:08:31 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:31 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:31 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:31 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Initializing memory system ...
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] BLOCK WRFRME: Reading the BLOCK memory contents to [block_memsys.bck] ...
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Read the disk array contents successfully.
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Block system initialized.
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [ERROR] BLOCK INIT: fail, initializing an initialized system
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] BLOCK simulator initialization complete.
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=158, offset=0
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Opening file [aesopa10.txt]
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 158 bytes to file [aesopa10.txt]
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffc29fe1df0):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [INFO] BLOCK: checksum failed [f3cce9fd != 0]
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffc29fe1df0):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=117, offset=0
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 117 bytes to file [aesopa10.txt]
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffc29fe1df0):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [INFO] BLOCK: checksum failed [b91e2a92 != 0]
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffc29fe1df0):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=192, offset=0
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 192 bytes to file [aesopa10.txt]
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffc29fe1df0):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [INFO] BLOCK: checksum failed [f299cd5b != 0]
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffc29fe1df0):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=87, offset=0
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 87 bytes from file [aesopa10.txt]
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x5653111398f0):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x5653111398f0):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=52
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 52 in file [aesopa10.txt]
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=215, offset=0
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 215 bytes from file [aesopa10.txt]
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x56531113ca20):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x56531113ca20):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=56, offset=0
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 56 bytes to file [aesopa10.txt]
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffc29fe1df0):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [INFO] BLOCK: checksum failed [3b2fff77 != 0]
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffc29fe1df0):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=99
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 99 in file [aesopa10.txt]
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=7, offset=0
+Mon Jul  1 09:08:32 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 7 bytes from file [aesopa10.txt]
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x56531111dd90):
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:08:32 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Initializing memory system ...
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] BLOCK WRFRME: Reading the BLOCK memory contents to [block_memsys.bck] ...
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Read the disk array contents successfully.
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Block system initialized.
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [ERROR] BLOCK INIT: fail, initializing an initialized system
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] BLOCK simulator initialization complete.
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=158, offset=0
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Opening file [aesopa10.txt]
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 158 bytes to file [aesopa10.txt]
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7fffb8e73270):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [INFO] BLOCK: checksum failed [cf878cd3 != 0]
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7fffb8e73270):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=117, offset=0
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 117 bytes to file [aesopa10.txt]
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7fffb8e73270):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [INFO] BLOCK: checksum failed [48bd7434 != 0]
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7fffb8e73270):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=192, offset=0
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 192 bytes to file [aesopa10.txt]
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7fffb8e73270):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [INFO] BLOCK: checksum failed [519bd350 != 0]
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7fffb8e73270):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=87, offset=0
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 87 bytes from file [aesopa10.txt]
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x56459ab488f0):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x56459ab488f0):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=52
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 52 in file [aesopa10.txt]
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=215, offset=0
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 215 bytes from file [aesopa10.txt]
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x56459ab4ba20):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x56459ab4ba20):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=56, offset=0
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 56 bytes to file [aesopa10.txt]
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7fffb8e73270):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [INFO] BLOCK: checksum failed [9e65fa70 != 0]
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7fffb8e73270):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=99
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 99 in file [aesopa10.txt]
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=7, offset=0
+Mon Jul  1 09:10:55 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 7 bytes from file [aesopa10.txt]
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x56459ab2cd90):
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:10:55 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Initializing memory system ...
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] BLOCK WRFRME: Reading the BLOCK memory contents to [block_memsys.bck] ...
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Read the disk array contents successfully.
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Block system initialized.
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [ERROR] BLOCK INIT: fail, initializing an initialized system
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] BLOCK simulator initialization complete.
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=158, offset=0
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Opening file [aesopa10.txt]
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 158 bytes to file [aesopa10.txt]
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7fff450ce930):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [INFO] BLOCK: checksum failed [a656c23f != 0]
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7fff450ce930):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=117, offset=0
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 117 bytes to file [aesopa10.txt]
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7fff450ce930):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [INFO] BLOCK: checksum failed [36557f84 != 0]
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7fff450ce930):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=192, offset=0
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 192 bytes to file [aesopa10.txt]
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7fff450ce930):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [INFO] BLOCK: checksum failed [81959a1a != 0]
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7fff450ce930):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=87, offset=0
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 87 bytes from file [aesopa10.txt]
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x5581071118f0):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x5581071118f0):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=52
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 52 in file [aesopa10.txt]
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=215, offset=0
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 215 bytes from file [aesopa10.txt]
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x558107114a20):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x558107114a20):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=56, offset=0
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 56 bytes to file [aesopa10.txt]
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7fff450ce930):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [INFO] BLOCK: checksum failed [8e9bbd8e != 0]
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7fff450ce930):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=99
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 99 in file [aesopa10.txt]
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=7, offset=0
+Mon Jul  1 09:16:42 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 7 bytes from file [aesopa10.txt]
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x5581070f5d90):
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:16:42 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Initializing memory system ...
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] BLOCK WRFRME: Reading the BLOCK memory contents to [block_memsys.bck] ...
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Read the disk array contents successfully.
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Block system initialized.
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [ERROR] BLOCK INIT: fail, initializing an initialized system
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] BLOCK simulator initialization complete.
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=158, offset=0
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Opening file [aesopa10.txt]
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 158 bytes to file [aesopa10.txt]
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffcdc25e550):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [INFO] BLOCK: checksum failed [a883a6fe != 0]
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffcdc25e550):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=117, offset=0
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 117 bytes to file [aesopa10.txt]
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffcdc25e550):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [INFO] BLOCK: checksum failed [8d51991a != 0]
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffcdc25e550):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=192, offset=0
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 192 bytes to file [aesopa10.txt]
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffcdc25e550):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [INFO] BLOCK: checksum failed [a1326114 != 0]
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffcdc25e550):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=87, offset=0
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 87 bytes from file [aesopa10.txt]
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x55d8847258f0):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x55d8847258f0):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=52
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 52 in file [aesopa10.txt]
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=215, offset=0
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 215 bytes from file [aesopa10.txt]
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x55d884728a20):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x55d884728a20):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=56, offset=0
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 56 bytes to file [aesopa10.txt]
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffcdc25e550):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [INFO] BLOCK: checksum failed [cc1f8a74 != 0]
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffcdc25e550):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=99
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 99 in file [aesopa10.txt]
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=7, offset=0
+Mon Jul  1 09:18:12 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 7 bytes from file [aesopa10.txt]
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x55d884709d90):
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:18:12 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Initializing memory system ...
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] BLOCK WRFRME: Reading the BLOCK memory contents to [block_memsys.bck] ...
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Read the disk array contents successfully.
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Block system initialized.
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [ERROR] BLOCK INIT: fail, initializing an initialized system
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame ((nil)):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] BLOCK simulator initialization complete.
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=158, offset=0
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Opening file [aesopa10.txt]
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 158 bytes to file [aesopa10.txt]
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffe7db8b7c0):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [INFO] BLOCK: checksum failed [3d6b378b != 0]
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffe7db8b7c0):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=117, offset=0
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 117 bytes to file [aesopa10.txt]
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffe7db8b7c0):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [INFO] BLOCK: checksum failed [72e7440a != 0]
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffe7db8b7c0):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=192, offset=0
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 192 bytes to file [aesopa10.txt]
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffe7db8b7c0):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [INFO] BLOCK: checksum failed [192f4d97 != 0]
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffe7db8b7c0):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=87, offset=0
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 87 bytes from file [aesopa10.txt]
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x55ba73c448f0):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x55ba73c448f0):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=52
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 52 in file [aesopa10.txt]
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=215, offset=0
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 215 bytes from file [aesopa10.txt]
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x55ba73c47a20):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 success.
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x55ba73c47a20):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [WRITE], len=56, offset=0
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Writing 56 bytes to file [aesopa10.txt]
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x7ffe7db8b7c0):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [INFO] BLOCK: checksum failed [efb78bb7 != 0]
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Controller returnging BLOCK IO opcode and frame (0x7ffe7db8b7c0):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 3
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [SEEK], len=0, offset=99
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Seeking to position 99 in file [aesopa10.txt]
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] File [aesopa10.txt], command [READ], len=7, offset=0
+Mon Jul  1 09:26:19 2019 [BLOCK_SIMULATOR] BLOCK_SIM : Reading 7 bytes from file [aesopa10.txt]
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] Recieved BLOCK IO opcode and frame (0x55ba73c28d90):
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] OPCODE VALUE Block System {
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_KY1 = 2
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_FM1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_CS1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER]          BLOCK_REG_RT1 = 0
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] };
+Mon Jul  1 09:26:19 2019 [BLOCK_CONTROLLER] BLOCK RDFRME: read frame 0 from cardige 0 ...
+Wed Jul  3 22:04:32 2019 [ERROR] Failure opening the workload file [workload/cmpsc311-sum19-assign2-workload.txtcd], error: No such file or directory.
+Wed Jul  3 22:04:32 2019 [INFO] BLOCK simulation failed.
+
